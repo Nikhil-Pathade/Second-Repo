@@ -4,7 +4,7 @@ public class Addtiontwono {
 		int a = 5;
 		int b = 6;
 		int c;
-		c = a + b ;
+		c = b ;
 		System.out.println("Addtion of two number is : " + c);
 		return c ;
 		
